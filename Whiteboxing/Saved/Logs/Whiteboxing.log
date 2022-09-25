@@ -1372,3 +1372,309 @@ Recommended: 516.25
 [2022.09.25-17.14.59:948][431]LogConcert: Display: Synced activity '6' produced by endpoint '12F44D634CA033E299EE82B5748C8C09': Cameron joined the session.
 [2022.09.25-17.16.22:207][767]SourceControl: Source control is disabled
 [2022.09.25-17.16.29:515][847]LogSlate: Window 'Source Control Login' being destroyed
+[2022.09.25-17.18.37:511][796]LogConcert: Display: Synced activity '7' produced by endpoint '9BB6363B4535FA24B53BDFB19DF6DF51': J locked StaticMeshActor_2.StaticMeshComponent0 in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.09.25-17.18.38:779][833]LogConcert: Display: Synced activity '8' produced by endpoint '9BB6363B4535FA24B53BDFB19DF6DF51': J modified StaticMeshActor_2.StaticMeshComponent0 in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.09.25-17.18.38:781][833]LogConcert: Display: Synced activity '9' produced by endpoint '9BB6363B4535FA24B53BDFB19DF6DF51': J unlocked StaticMeshActor_2.StaticMeshComponent0 in /Game/ThirdPerson/Maps/ThirdPersonMap.
+[2022.09.25-17.18.42:100][915]LogPackageLocalizationCache: Processed 33 localized package path(s) for 1 prioritized culture(s) in 0.015568 seconds
+[2022.09.25-17.18.42:112][915]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2022.09.25-17.18.42:114][915]LogSavePackage: Moving '../../../../../../Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/GK06JAEJ82TQ0GA2QB0DJG0F1221114BA56C10C2375FBD331545A6.tmp' to '../../../../../../Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2022.09.25-17.18.42:197][915]AssetCheck: New page: Asset Save: StaticMeshActor_2
+[2022.09.25-17.18.42:197][915]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2022.09.25-17.18.42:256][917]LogConcert: Display: Synced activity '10' produced by endpoint '9BB6363B4535FA24B53BDFB19DF6DF51': J saved package /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.
+[2022.09.25-17.18.57:095][ 61]LogConcertTakeRecorder: Display: Session Client Change: Makena Disconnected.
+[2022.09.25-17.18.57:104][ 61]LogConcert: Display: User 'maken' (Endpoint: F913FB0E4745F2F21EFF4E8297E86F02) left Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.18.57:104][ 61]LogConcertTakeRecorder: Display: Session Client Change: Cameron Disconnected.
+[2022.09.25-17.18.57:104][ 61]LogConcert: Display: User 'Cameron' (Endpoint: 12F44D634CA033E299EE82B5748C8C09) left Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.18.57:117][ 61]LogConcert: Display: Disconnected from Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.18.57:118][ 61]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: Whiteboxing
+[2022.09.25-17.18.57:798][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Engine/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Whiteboxing/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Bridge/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Paper2D/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/AnimationSharing/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ControlRig/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ControlRigSpline/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/IKRig/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Niagara/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/DatasmithContent/' was aborted.
+[2022.09.25-17.18.57:799][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/SpeedTreeImporter/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosClothEditor/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosNiagara/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosSolverPlugin/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/FullBodyIK/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryFlow/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryMode/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshLODToolset/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2022.09.25-17.18.57:800][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MediaCompositing/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/PythonScriptPlugin/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/SequencerScripting/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/AudioSynesthesia/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryProcessing/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/HairStrands/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshModelingToolset/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MultiUserTakes/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Takes/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ResonanceAudio/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Synthesis/' was aborted.
+[2022.09.25-17.18.57:801][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ConcertSyncClient/' was aborted.
+[2022.09.25-17.18.57:817][ 61]LightingResults: New page: Lighting Build
+[2022.09.25-17.18.57:830][ 61]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.18.57:831][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.18.57:836][ 61]MapCheck: New page: Map Check
+[2022.09.25-17.18.57:836][ 61]LightingResults: New page: Lighting Build
+[2022.09.25-17.18.57:850][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-17.18.57:856][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.25-17.18.57:858][ 61]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.25-17.18.57:858][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-17.18.57:859][ 61]LogAIModule: Creating AISystem for world Untitled
+[2022.09.25-17.18.57:861][ 61]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.25-17.18.57:887][ 61]LoadErrors: New page: New Map
+[2022.09.25-17.18.57:890][ 61]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.09.25-17.18.57:902][ 61]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.09.25-17.18.57:902][ 61]Cmd: MAP LOAD FILE="../../../../../../Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.25-17.18.57:902][ 61]LightingResults: New page: Lighting Build
+[2022.09.25-17.18.57:903][ 61]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.09.25-17.18.57:904][ 61]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.18.57:904][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.18.57:904][ 61]MapCheck: New page: Map Check
+[2022.09.25-17.18.57:904][ 61]LightingResults: New page: Lighting Build
+[2022.09.25-17.18.57:914][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-17.18.57:916][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.25-17.18.57:921][ 61]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.18.57:921][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.18.57:933][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.25-17.18.57:944][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.25-17.18.57:952][ 61]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.09.25-17.18.57:953][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-17.18.57:953][ 61]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.09.25-17.18.57:954][ 61]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.25-17.18.57:954][ 61]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.25-17.18.57:993][ 61]LogWorldPartition: Display: WorldPartition initialize took 39 ms
+[2022.09.25-17.18.58:119][ 61]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.25-17.18.58:138][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.25-17.18.58:151][ 61]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.25-17.18.58:151][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.294ms to complete.
+[2022.09.25-17.18.58:152][ 61]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.249
+[2022.09.25-17.18.58:160][ 61]LogConcert: Display: Shutdown Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.18.58:345][ 63]LogConcert: Display: Server MAKENA_LAPTOP lost.
+[2022.09.25-17.18.58:417][ 64]LogConcert: Display: Server MAKENA_LAPTOP discovered.
+[2022.09.25-17.19.00:230][107]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.09.25-17.19.03:945][145]LogConcert: [Pending] Joining Session...
+[2022.09.25-17.19.03:945][145]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:899][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.06:900][178]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul'
+[2022.09.25-17.19.07:617][181]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2022.09.25-17.19.07:762][183]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Startup: Whiteboxing
+[2022.09.25-17.19.08:402][183]LogConcert: Display: Initialized Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.19.08:402][183]LogConcert: Display: Connecting to Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.19.08:469][185]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.09.25-17.19.08:469][185]LogConcert: Warning: Failed to load presence actor class ''. Presence will not be displayed
+[2022.09.25-17.19.08:519][186]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.09.25-17.19.08:519][186]LogConcert: Warning: Failed to load presence actor class ''. Presence will not be displayed
+[2022.09.25-17.19.08:574][187]LogConcertTakeRecorder: Display: Multi-user Take Recorder Connected to Session: Whiteboxing
+[2022.09.25-17.19.08:576][187]LogConcert: Display: Connected to Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.19.08:576][187]LogConcertTakeRecorder: Display: Session Client Change: Makena Connected.
+[2022.09.25-17.19.08:576][187]LogConcert: Display: User 'maken' (Endpoint: F913FB0E4745F2F21EFF4E8297E86F02) joined Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.19.08:576][187]LogConcertTakeRecorder: Display: Session Client Change: Cameron Connected.
+[2022.09.25-17.19.08:576][187]LogConcert: Display: User 'Cameron' (Endpoint: 12F44D634CA033E299EE82B5748C8C09) joined Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.19.08:618][188]LogConcert: [Success] Joined Session 'Whiteboxing'
+[2022.09.25-17.19.08:619][188]LogConcert: Display: Synced activity '11' produced by endpoint '9BB6363B4535FA24B53BDFB19DF6DF51': J left the session.
+[2022.09.25-17.19.08:620][188]LogConcert: Display: Synced activity '12' produced by endpoint '5A92E5C24E272C540D580A852D3A66E3': J joined the session.
+[2022.09.25-17.19.08:686][188]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2022.09.25-17.19.08:700][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.25-17.19.09:340][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.25-17.30.12:690][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.25-17.30.12:719][199]LogWorldPartition: Display: GenerateStreaming started...
+[2022.09.25-17.30.12:719][199]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.09.25-17.30.12:719][199]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.09.25-17.30.12:720][199]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.09.25-17.30.12:720][199]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.09.25-17.30.12:720][199]LogWorldPartition: Display: GetPartitionedActors took 310 us
+[2022.09.25-17.30.12:720][199]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.09.25-17.30.12:722][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.25-17.30.12:722][199]PIE: New page: PIE session: ThirdPersonMap (Sep 25, 2022, 9:30:12 AM)
+[2022.09.25-17.30.12:731][199]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.09.25-17.30.12:731][199]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.25-17.30.12:733][199]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.09.25-17.30.12:741][199]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.09.25-17.30.12:742][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009200s)
+[2022.09.25-17.30.12:742][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009894s)
+[2022.09.25-17.30.12:743][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-17.30.12:744][199]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.09.25-17.30.12:746][199]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.25-17.30.12:746][199]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.09.25-17.30.12:748][199]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2022.09.25-17.30.12:749][199]LogPlayLevel: PIE: World Init took: (0.006381s)
+[2022.09.25-17.30.12:765][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.09.25-17.30.12:769][199]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.25-17.30.12:769][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.25-17.30.12:769][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.25-17.30.12:770][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.25-17.30.12:770][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.25-17.30.12:770][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.25-17.30.12:775][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.25-17.30.13:000][199]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.09.25-17.30.13:001][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.25-17.30.13:001][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.25-17.30.13:001][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.25-17.30.13:005][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.09.25-17.30.13:005][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.09.25-17.30.13:009][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.09.25-17.30.13:009][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.09.25-17.30.13:009][199]LogInit: FAudioDevice initialized.
+[2022.09.25-17.30.13:010][199]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.09.25-17.30.13:036][199]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.25-17.30.13:041][199]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2022.09.25-13.30.13
+[2022.09.25-17.30.13:042][199]LogWorld: Bringing up level for play took: 0.004250
+[2022.09.25-17.30.13:047][199]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.09.25-17.30.13:147][199]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.09.25-17.30.13:147][199]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.09.25-17.30.13:150][199]PIE: Server logged in
+[2022.09.25-17.30.13:152][199]PIE: Play in editor total start time 0.443 seconds.
+[2022.09.25-17.30.33:412][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-17.30.33:412][797]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.09.25-17.30.33:413][797]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.30.33:416][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.30.33:471][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.25-17.30.33:477][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.30.33:503][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-17.30.33:504][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.25-17.30.33:508][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.09.25-17.30.33:549][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.25-17.30.33:556][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.09.25-17.30.33:625][798]LogConcert: Display: Synced activity '13' produced by endpoint '5A92E5C24E272C540D580A852D3A66E3': J discarded changes to package /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.
+[2022.09.25-17.30.33:630][798]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.09.25-17.33.42:934][478]LogConcertTakeRecorder: Display: Session Client Change: Cameron Disconnected.
+[2022.09.25-17.33.42:935][478]LogConcert: Display: User 'Cameron' (Endpoint: 12F44D634CA033E299EE82B5748C8C09) left Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.33.42:936][478]LogConcert: Display: Synced activity '14' produced by endpoint '12F44D634CA033E299EE82B5748C8C09': Cameron left the session.
+[2022.09.25-17.33.49:068][662]LogConcertTakeRecorder: Display: Session Client Change: Makena Disconnected.
+[2022.09.25-17.33.49:068][662]LogConcert: Display: User 'maken' (Endpoint: F913FB0E4745F2F21EFF4E8297E86F02) left Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.33.49:069][662]LogConcert: Display: Synced activity '15' produced by endpoint 'F913FB0E4745F2F21EFF4E8297E86F02': Makena left the session.
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B724781E5-4A62-FE1D-04FF-568DE37F00FA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=6e9e7a6b4a65b05f8d03e2bf3c018940%7C8e27d2b4998e4c63ae9547c5f5d1c6a5%7C4b8ad0c9-04aa-423e-9ba0-387d7042deb6&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb698d8c0000 [can pipeline])
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.145.198.114) port 443 (#0))
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: 00000B69C6AD0500: libcurl info message cache 7 (Closing connection 0)
+[2022.09.25-17.38.48:120][466]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B724781E5-4A62-FE1D-04FF-568DE37F00FA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=6e9e7a6b4a65b05f8d03e2bf3c018940%7C8e27d2b4998e4c63ae9547c5f5d1c6a5%7C4b8ad0c9-04aa-423e-9ba0-387d7042deb6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.25-17.39.43:306][121]LogConcert: Display: Disconnected from Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.39.43:306][121]LogConcertTakeRecorder: Display: Multi-user Take Recorder Session Shutdown: Whiteboxing
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Engine/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Whiteboxing/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Bridge/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Paper2D/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/AnimationSharing/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ControlRig/' was aborted.
+[2022.09.25-17.39.44:076][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ControlRigSpline/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/IKRig/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Niagara/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/DatasmithContent/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ModelingToolsEditorMode/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/SpeedTreeImporter/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosClothEditor/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosNiagara/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ChaosSolverPlugin/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/FullBodyIK/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryCollectionPlugin/' was aborted.
+[2022.09.25-17.39.44:077][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryFlow/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryMode/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshLODToolset/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshModelingToolsetExp/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MediaCompositing/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/PythonScriptPlugin/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/SequencerScripting/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/AudioSynesthesia/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/GeometryProcessing/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/HairStrands/' was aborted.
+[2022.09.25-17.39.44:078][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MeshModelingToolset/' was aborted.
+[2022.09.25-17.39.44:079][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/MultiUserTakes/' was aborted.
+[2022.09.25-17.39.44:079][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Takes/' was aborted.
+[2022.09.25-17.39.44:079][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ResonanceAudio/' was aborted.
+[2022.09.25-17.39.44:079][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/Synthesis/' was aborted.
+[2022.09.25-17.39.44:079][121]LogDirectoryWatcher: A directory notification for 'C:/Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Intermediate/Concert/MultiUser/EBB5390D427EE33469EE9EA4B8FE915C/2BDA61234DB5B0B16BB0EA8FF29FC21D/Sandbox/ConcertSyncClient/' was aborted.
+[2022.09.25-17.39.44:098][121]LightingResults: New page: Lighting Build
+[2022.09.25-17.39.44:100][121]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.39.44:101][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.39.44:105][121]MapCheck: New page: Map Check
+[2022.09.25-17.39.44:105][121]LightingResults: New page: Lighting Build
+[2022.09.25-17.39.44:119][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-17.39.44:126][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.09.25-17.39.44:129][121]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.25-17.39.44:129][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-17.39.44:130][121]LogAIModule: Creating AISystem for world Untitled
+[2022.09.25-17.39.44:133][121]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.25-17.39.44:181][121]LoadErrors: New page: New Map
+[2022.09.25-17.39.44:184][121]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.09.25-17.39.44:194][121]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2022.09.25-17.39.44:194][121]Cmd: MAP LOAD FILE="../../../../../../Users/joshs/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.25-17.39.44:194][121]LightingResults: New page: Lighting Build
+[2022.09.25-17.39.44:194][121]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2022.09.25-17.39.44:195][121]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.39.44:195][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.39.44:196][121]MapCheck: New page: Map Check
+[2022.09.25-17.39.44:196][121]LightingResults: New page: Lighting Build
+[2022.09.25-17.39.44:207][121]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.25-17.39.44:209][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.09.25-17.39.44:211][121]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.25-17.39.44:211][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.25-17.39.44:225][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.25-17.39.44:239][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.09.25-17.39.44:251][121]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.09.25-17.39.44:252][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.25-17.39.44:252][121]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.09.25-17.39.44:253][121]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.09.25-17.39.44:253][121]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.09.25-17.39.44:300][121]LogWorldPartition: Display: WorldPartition initialize took 46 ms
+[2022.09.25-17.39.44:325][121]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.25-17.39.44:342][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.25-17.39.44:357][121]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.25-17.39.44:358][121]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.361ms to complete.
+[2022.09.25-17.39.44:358][121]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.163
+[2022.09.25-17.39.44:375][121]LogConcert: Display: Shutdown Concert session 'Whiteboxing' (Id: 2BDA61234DB5B0B16BB0EA8FF29FC21D, Owner: maken).
+[2022.09.25-17.39.44:496][122]LogConcert: Display: Server MAKENA_LAPTOP lost.
+[2022.09.25-17.39.44:581][124]LogConcert: Display: Server MAKENA_LAPTOP discovered.
+[2022.09.25-17.40.07:811][821]LogConcert: Display: Server MAKENA_LAPTOP lost.
