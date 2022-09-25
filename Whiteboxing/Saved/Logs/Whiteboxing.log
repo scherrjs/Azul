@@ -731,3 +731,4 @@ Recommended: 516.25
 [2022.09.25-17.35.35:395][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.09.25-17.35.35:400][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.09.25-17.35.36:372][ 31]LogConcert: Display: Server MAKENA_LAPTOP discovered.
+[2022.09.25-17.37.00:368][405]LogSlate: Window 'Source Control Login' being destroyed
