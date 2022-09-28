@@ -891,3 +891,276 @@ Recommended: 516.25
 [2022.09.28-19.06.07:647][970]AssetCheck: New page: Asset Save: Whiteboxing
 [2022.09.28-19.06.07:647][970]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing
 [2022.09.28-19.06.32:184][432]LogEditorViewport: Clicking Background
+[2022.09.28-19.10.51:548][579]LogViewport: Scene viewport resized to 1922x1021, mode Windowed.
+[2022.09.28-19.10.51:581][581]LogViewport: Scene viewport resized to 1922x963, mode Windowed.
+[2022.09.28-19.10.51:614][583]LogViewport: Scene viewport resized to 1922x881, mode Windowed.
+[2022.09.28-19.10.51:649][585]LogViewport: Scene viewport resized to 1922x805, mode Windowed.
+[2022.09.28-19.10.51:666][586]LogViewport: Scene viewport resized to 1922x780, mode Windowed.
+[2022.09.28-19.10.51:706][588]LogViewport: Scene viewport resized to 1922x730, mode Windowed.
+[2022.09.28-19.10.51:723][589]LogViewport: Scene viewport resized to 1922x717, mode Windowed.
+[2022.09.28-19.10.51:764][591]LogViewport: Scene viewport resized to 1922x687, mode Windowed.
+[2022.09.28-19.10.51:800][593]LogViewport: Scene viewport resized to 1922x664, mode Windowed.
+[2022.09.28-19.10.51:834][595]LogViewport: Scene viewport resized to 1922x635, mode Windowed.
+[2022.09.28-19.10.51:871][597]LogViewport: Scene viewport resized to 1922x617, mode Windowed.
+[2022.09.28-19.10.51:911][599]LogViewport: Scene viewport resized to 1922x600, mode Windowed.
+[2022.09.28-19.10.51:950][601]LogViewport: Scene viewport resized to 1922x587, mode Windowed.
+[2022.09.28-19.10.51:988][603]LogViewport: Scene viewport resized to 1922x572, mode Windowed.
+[2022.09.28-19.10.52:027][605]LogViewport: Scene viewport resized to 1922x550, mode Windowed.
+[2022.09.28-19.10.52:065][607]LogViewport: Scene viewport resized to 1922x536, mode Windowed.
+[2022.09.28-19.10.52:108][609]LogViewport: Scene viewport resized to 1922x527, mode Windowed.
+[2022.09.28-19.10.52:530][634]LogViewport: Scene viewport resized to 1922x535, mode Windowed.
+[2022.09.28-19.10.52:573][636]LogViewport: Scene viewport resized to 1922x549, mode Windowed.
+[2022.09.28-19.10.52:631][638]LogViewport: Scene viewport resized to 1922x587, mode Windowed.
+[2022.09.28-19.10.52:667][640]LogViewport: Scene viewport resized to 1922x597, mode Windowed.
+[2022.09.28-19.10.52:701][642]LogViewport: Scene viewport resized to 1922x611, mode Windowed.
+[2022.09.28-19.10.52:720][643]LogViewport: Scene viewport resized to 1922x615, mode Windowed.
+[2022.09.28-19.10.52:759][645]LogViewport: Scene viewport resized to 1922x626, mode Windowed.
+[2022.09.28-19.11.25:580][607]LogViewport: Scene viewport resized to 1922x628, mode Windowed.
+[2022.09.28-19.11.25:787][619]LogViewport: Scene viewport resized to 1922x636, mode Windowed.
+[2022.09.28-19.11.25:820][621]LogViewport: Scene viewport resized to 1922x640, mode Windowed.
+[2022.09.28-19.11.25:854][623]LogViewport: Scene viewport resized to 1922x642, mode Windowed.
+[2022.09.28-19.11.25:890][625]LogViewport: Scene viewport resized to 1922x643, mode Windowed.
+[2022.09.28-19.11.25:957][629]LogViewport: Scene viewport resized to 1922x647, mode Windowed.
+[2022.09.28-19.11.26:008][632]LogViewport: Scene viewport resized to 1922x650, mode Windowed.
+[2022.09.28-19.11.26:042][634]LogViewport: Scene viewport resized to 1922x655, mode Windowed.
+[2022.09.28-19.11.26:095][637]LogViewport: Scene viewport resized to 1922x657, mode Windowed.
+[2022.09.28-19.11.26:147][640]LogViewport: Scene viewport resized to 1922x663, mode Windowed.
+[2022.09.28-19.11.26:298][649]LogViewport: Scene viewport resized to 1922x667, mode Windowed.
+[2022.09.28-19.11.26:364][653]LogViewport: Scene viewport resized to 1922x670, mode Windowed.
+[2022.09.28-19.11.26:515][662]LogViewport: Scene viewport resized to 1922x673, mode Windowed.
+[2022.09.28-19.11.27:048][694]LogViewport: Scene viewport resized to 1922x671, mode Windowed.
+[2022.09.28-19.11.27:095][696]LogViewport: Scene viewport resized to 1922x668, mode Windowed.
+[2022.09.28-19.11.27:190][701]LogViewport: Scene viewport resized to 1922x665, mode Windowed.
+[2022.09.28-19.11.27:342][710]LogViewport: Scene viewport resized to 1922x660, mode Windowed.
+[2022.09.28-19.11.27:376][712]LogViewport: Scene viewport resized to 1922x656, mode Windowed.
+[2022.09.28-19.11.27:510][720]LogViewport: Scene viewport resized to 1922x661, mode Windowed.
+[2022.09.28-19.11.27:543][722]LogViewport: Scene viewport resized to 1922x668, mode Windowed.
+[2022.09.28-19.11.27:576][724]LogViewport: Scene viewport resized to 1922x676, mode Windowed.
+[2022.09.28-19.11.27:610][726]LogViewport: Scene viewport resized to 1922x692, mode Windowed.
+[2022.09.28-19.11.27:643][728]LogViewport: Scene viewport resized to 1922x703, mode Windowed.
+[2022.09.28-19.11.27:680][730]LogViewport: Scene viewport resized to 1922x714, mode Windowed.
+[2022.09.28-19.11.27:714][732]LogViewport: Scene viewport resized to 1922x727, mode Windowed.
+[2022.09.28-19.11.27:732][733]LogViewport: Scene viewport resized to 1922x733, mode Windowed.
+[2022.09.28-19.11.27:772][735]LogViewport: Scene viewport resized to 1922x744, mode Windowed.
+[2022.09.28-19.11.27:807][737]LogViewport: Scene viewport resized to 1922x752, mode Windowed.
+[2022.09.28-19.11.27:841][739]LogViewport: Scene viewport resized to 1922x758, mode Windowed.
+[2022.09.28-19.11.27:876][741]LogViewport: Scene viewport resized to 1922x766, mode Windowed.
+[2022.09.28-19.11.27:910][743]LogViewport: Scene viewport resized to 1922x774, mode Windowed.
+[2022.09.28-19.11.27:978][747]LogViewport: Scene viewport resized to 1922x783, mode Windowed.
+[2022.09.28-19.11.28:012][749]LogViewport: Scene viewport resized to 1922x788, mode Windowed.
+[2022.09.28-19.11.28:047][751]LogViewport: Scene viewport resized to 1922x793, mode Windowed.
+[2022.09.28-19.11.28:081][753]LogViewport: Scene viewport resized to 1922x797, mode Windowed.
+[2022.09.28-19.11.28:116][755]LogViewport: Scene viewport resized to 1922x803, mode Windowed.
+[2022.09.28-19.11.28:151][757]LogViewport: Scene viewport resized to 1922x811, mode Windowed.
+[2022.09.28-19.11.28:186][759]LogViewport: Scene viewport resized to 1922x814, mode Windowed.
+[2022.09.28-19.11.28:222][761]LogViewport: Scene viewport resized to 1922x818, mode Windowed.
+[2022.09.28-19.11.28:323][767]LogViewport: Scene viewport resized to 1922x824, mode Windowed.
+[2022.09.28-19.11.28:358][769]LogViewport: Scene viewport resized to 1922x829, mode Windowed.
+[2022.09.28-19.11.28:394][771]LogViewport: Scene viewport resized to 1922x838, mode Windowed.
+[2022.09.28-19.11.28:428][773]LogViewport: Scene viewport resized to 1922x843, mode Windowed.
+[2022.09.28-19.11.28:463][775]LogViewport: Scene viewport resized to 1922x846, mode Windowed.
+[2022.09.28-19.11.28:498][777]LogViewport: Scene viewport resized to 1922x850, mode Windowed.
+[2022.09.28-19.11.28:533][779]LogViewport: Scene viewport resized to 1922x857, mode Windowed.
+[2022.09.28-19.11.28:568][781]LogViewport: Scene viewport resized to 1922x862, mode Windowed.
+[2022.09.28-19.11.28:603][783]LogViewport: Scene viewport resized to 1922x867, mode Windowed.
+[2022.09.28-19.11.28:638][785]LogViewport: Scene viewport resized to 1922x873, mode Windowed.
+[2022.09.28-19.11.28:673][787]LogViewport: Scene viewport resized to 1922x879, mode Windowed.
+[2022.09.28-19.11.28:707][789]LogViewport: Scene viewport resized to 1922x883, mode Windowed.
+[2022.09.28-19.11.28:741][791]LogViewport: Scene viewport resized to 1922x889, mode Windowed.
+[2022.09.28-19.11.28:776][793]LogViewport: Scene viewport resized to 1922x895, mode Windowed.
+[2022.09.28-19.11.28:811][795]LogViewport: Scene viewport resized to 1922x903, mode Windowed.
+[2022.09.28-19.11.28:844][797]LogViewport: Scene viewport resized to 1922x908, mode Windowed.
+[2022.09.28-19.11.28:878][799]LogViewport: Scene viewport resized to 1922x912, mode Windowed.
+[2022.09.28-19.11.28:912][801]LogViewport: Scene viewport resized to 1922x918, mode Windowed.
+[2022.09.28-19.11.28:946][803]LogViewport: Scene viewport resized to 1922x927, mode Windowed.
+[2022.09.28-19.11.28:982][805]LogViewport: Scene viewport resized to 1922x932, mode Windowed.
+[2022.09.28-19.11.29:015][807]LogViewport: Scene viewport resized to 1922x938, mode Windowed.
+[2022.09.28-19.11.29:050][809]LogViewport: Scene viewport resized to 1922x945, mode Windowed.
+[2022.09.28-19.11.29:085][811]LogViewport: Scene viewport resized to 1922x957, mode Windowed.
+[2022.09.28-19.11.29:119][813]LogViewport: Scene viewport resized to 1922x964, mode Windowed.
+[2022.09.28-19.11.29:154][815]LogViewport: Scene viewport resized to 1922x971, mode Windowed.
+[2022.09.28-19.11.29:189][817]LogViewport: Scene viewport resized to 1922x981, mode Windowed.
+[2022.09.28-19.11.29:224][819]LogViewport: Scene viewport resized to 1922x987, mode Windowed.
+[2022.09.28-19.11.29:259][821]LogViewport: Scene viewport resized to 1922x993, mode Windowed.
+[2022.09.28-19.11.29:293][823]LogViewport: Scene viewport resized to 1922x999, mode Windowed.
+[2022.09.28-19.11.29:327][825]LogViewport: Scene viewport resized to 1922x1005, mode Windowed.
+[2022.09.28-19.11.29:362][827]LogViewport: Scene viewport resized to 1922x1013, mode Windowed.
+[2022.09.28-19.11.29:397][829]LogViewport: Scene viewport resized to 1922x1021, mode Windowed.
+[2022.09.28-19.11.29:431][831]LogViewport: Scene viewport resized to 1922x1026, mode Windowed.
+[2022.09.28-19.11.29:465][833]LogViewport: Scene viewport resized to 1922x1033, mode Windowed.
+[2022.09.28-19.11.29:500][835]LogViewport: Scene viewport resized to 1922x1042, mode Windowed.
+[2022.09.28-19.11.29:534][837]LogViewport: Scene viewport resized to 1922x1047, mode Windowed.
+[2022.09.28-19.11.29:569][839]LogViewport: Scene viewport resized to 1922x1051, mode Windowed.
+[2022.09.28-19.11.29:604][841]LogViewport: Scene viewport resized to 1922x1055, mode Windowed.
+[2022.09.28-19.11.29:639][843]LogViewport: Scene viewport resized to 1922x1060, mode Windowed.
+[2022.09.28-19.11.29:672][845]LogViewport: Scene viewport resized to 1922x1063, mode Windowed.
+[2022.09.28-19.11.29:707][847]LogViewport: Scene viewport resized to 1922x1067, mode Windowed.
+[2022.09.28-19.11.29:743][849]LogViewport: Scene viewport resized to 1922x1071, mode Windowed.
+[2022.09.28-19.11.29:778][851]LogViewport: Scene viewport resized to 1922x1077, mode Windowed.
+[2022.09.28-19.11.29:914][859]LogViewport: Scene viewport resized to 1922x1084, mode Windowed.
+[2022.09.28-19.11.29:947][861]LogViewport: Scene viewport resized to 1922x1086, mode Windowed.
+[2022.09.28-19.11.30:115][871]LogViewport: Scene viewport resized to 1922x1089, mode Windowed.
+[2022.09.28-19.11.30:149][873]LogViewport: Scene viewport resized to 1922x1093, mode Windowed.
+[2022.09.28-19.11.30:199][876]LogViewport: Scene viewport resized to 1922x1095, mode Windowed.
+[2022.09.28-19.11.30:234][878]LogViewport: Scene viewport resized to 1922x1100, mode Windowed.
+[2022.09.28-19.11.30:269][880]LogViewport: Scene viewport resized to 1922x1103, mode Windowed.
+[2022.09.28-19.11.30:353][885]LogViewport: Scene viewport resized to 1922x1105, mode Windowed.
+[2022.09.28-19.11.30:386][887]LogViewport: Scene viewport resized to 1922x1109, mode Windowed.
+[2022.09.28-19.11.30:437][890]LogViewport: Scene viewport resized to 1922x1111, mode Windowed.
+[2022.09.28-19.11.30:836][914]LogViewport: Scene viewport resized to 1922x1119, mode Windowed.
+[2022.09.28-19.12.08:644][ 58]LogSlate: Window 'Source Control Login' being destroyed
+[2022.09.28-19.12.15:572][458]LogViewport: Scene viewport resized to 1922x1100, mode Windowed.
+[2022.09.28-19.12.15:605][460]LogViewport: Scene viewport resized to 1922x1070, mode Windowed.
+[2022.09.28-19.12.15:640][462]LogViewport: Scene viewport resized to 1922x1004, mode Windowed.
+[2022.09.28-19.12.15:675][464]LogViewport: Scene viewport resized to 1922x896, mode Windowed.
+[2022.09.28-19.12.15:709][466]LogViewport: Scene viewport resized to 1922x812, mode Windowed.
+[2022.09.28-19.12.15:743][468]LogViewport: Scene viewport resized to 1922x766, mode Windowed.
+[2022.09.28-19.12.15:777][470]LogViewport: Scene viewport resized to 1922x740, mode Windowed.
+[2022.09.28-19.12.15:812][472]LogViewport: Scene viewport resized to 1922x722, mode Windowed.
+[2022.09.28-19.12.16:129][491]LogViewport: Scene viewport resized to 1922x718, mode Windowed.
+[2022.09.28-19.12.16:188][494]LogViewport: Scene viewport resized to 1922x697, mode Windowed.
+[2022.09.28-19.12.16:228][496]LogViewport: Scene viewport resized to 1922x655, mode Windowed.
+[2022.09.28-19.12.16:264][498]LogViewport: Scene viewport resized to 1922x643, mode Windowed.
+[2022.09.28-19.12.16:300][500]LogViewport: Scene viewport resized to 1922x641, mode Windowed.
+[2022.09.28-19.12.27:949][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.09.28-19.12.27:949][180]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.09.28-19.12.27:949][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing:PersistentLevel.StaticMeshActor_8
+[2022.09.28-19.12.27:949][180]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing:PersistentLevel.StaticMeshActor_8
+[2022.09.28-19.12.28:686][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.09.28-19.12.28:686][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2022.09.28-19.12.28:687][224]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing:PersistentLevel.StaticMeshActor_13
+[2022.09.28-19.12.28:687][224]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing:PersistentLevel.StaticMeshActor_13
+[2022.09.28-19.12.32:154][428]LogEditorViewport: Clicking Background
+[2022.09.28-19.12.55:292][764]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.28-19.12.56:246][764]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.28-19.12.56:255][764]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.28-19.12.56:260][764]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.28-19.12.56:268][765]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.28-19.12.59:432][955]LogContentBrowser: Attempting asset rename: NewBlueprint -> Test
+[2022.09.28-19.12.59:545][955]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.28-19.13.08:859][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Test" FILE="../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset" SILENT=true
+[2022.09.28-19.13.08:862][482]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Test
+[2022.09.28-19.13.08:862][482]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/Test3CE660684995F6DD1D906A8424010869.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset'
+[2022.09.28-19.13.09:188][482]AssetCheck: New page: Asset Save: Test
+[2022.09.28-19.13.09:188][482]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/Test.Test
+[2022.09.28-19.13.34:168][973]LogViewport: Scene viewport resized to 1922x649, mode Windowed.
+[2022.09.28-19.13.34:186][974]LogViewport: Scene viewport resized to 1922x652, mode Windowed.
+[2022.09.28-19.13.34:231][976]LogViewport: Scene viewport resized to 1922x659, mode Windowed.
+[2022.09.28-19.13.34:266][978]LogViewport: Scene viewport resized to 1922x664, mode Windowed.
+[2022.09.28-19.13.34:318][981]LogViewport: Scene viewport resized to 1922x667, mode Windowed.
+[2022.09.28-19.13.44:521][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Test" FILE="../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset" SILENT=true
+[2022.09.28-19.13.44:524][574]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Test
+[2022.09.28-19.13.44:525][574]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/TestEE20026D468C80173337DA8D2D5CAC9B.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset'
+[2022.09.28-19.13.57:006][574]LogSlate: Window 'Submit Files' being destroyed
+[2022.09.28-19.13.58:123][574]LogSourceControl: commit successful: [Design-Makena 243aaf7] test
+[2022.09.28-19.13.58:166][574]SourceControl: [Design-Makena 243aaf7] test
+[2022.09.28-19.13.58:166][574]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.09.28-19.13.58:166][574]SourceControl:  create mode 100644 Whiteboxing/Content/ThirdPerson/Maps/Test.uasset
+[2022.09.28-19.13.58:200][574]SourceControl: Commited [Design-Makena 243aaf7] test.
+[2022.09.28-19.13.58:202][574]AssetCheck: New page: Asset Save: Test
+[2022.09.28-19.13.58:202][574]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/Test.Test
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:192][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/MultiUserTakes/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/MultiUserTakes/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:193][636]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/maken/OneDrive/Documents/GitHub/Azul'
+[2022.09.28-19.14.32:302][636]EditorErrors: Warning: No assets to check in!
+[2022.09.28-19.14.52:544][831]LogViewport: Scene viewport resized to 1912x667, mode Windowed.
+[2022.09.28-19.14.52:581][833]LogViewport: Scene viewport resized to 1896x667, mode Windowed.
+[2022.09.28-19.14.52:616][835]LogViewport: Scene viewport resized to 1887x667, mode Windowed.
+[2022.09.28-19.14.52:650][837]LogViewport: Scene viewport resized to 1881x667, mode Windowed.
+[2022.09.28-19.14.52:686][839]LogViewport: Scene viewport resized to 1874x667, mode Windowed.
+[2022.09.28-19.14.52:754][843]LogViewport: Scene viewport resized to 1870x667, mode Windowed.
+[2022.09.28-19.14.52:787][845]LogViewport: Scene viewport resized to 1862x667, mode Windowed.
+[2022.09.28-19.14.52:824][847]LogViewport: Scene viewport resized to 1856x667, mode Windowed.
+[2022.09.28-19.14.52:858][849]LogViewport: Scene viewport resized to 1848x667, mode Windowed.
+[2022.09.28-19.14.52:893][851]LogViewport: Scene viewport resized to 1840x667, mode Windowed.
+[2022.09.28-19.14.52:928][853]LogViewport: Scene viewport resized to 1835x667, mode Windowed.
+[2022.09.28-19.14.52:962][855]LogViewport: Scene viewport resized to 1833x667, mode Windowed.
+[2022.09.28-19.14.53:012][858]LogViewport: Scene viewport resized to 1831x667, mode Windowed.
+[2022.09.28-19.14.53:279][874]LogViewport: Scene viewport resized to 1820x667, mode Windowed.
+[2022.09.28-19.14.53:313][876]LogViewport: Scene viewport resized to 1809x667, mode Windowed.
+[2022.09.28-19.14.53:347][878]LogViewport: Scene viewport resized to 1799x667, mode Windowed.
+[2022.09.28-19.14.53:383][880]LogViewport: Scene viewport resized to 1789x667, mode Windowed.
+[2022.09.28-19.14.53:418][882]LogViewport: Scene viewport resized to 1777x667, mode Windowed.
+[2022.09.28-19.14.53:718][900]LogViewport: Scene viewport resized to 1759x667, mode Windowed.
+[2022.09.28-19.14.53:758][902]LogViewport: Scene viewport resized to 1742x667, mode Windowed.
+[2022.09.28-19.14.54:090][921]LogViewport: Scene viewport resized to 1744x667, mode Windowed.
+[2022.09.28-19.14.54:165][925]LogViewport: Scene viewport resized to 1747x667, mode Windowed.
+[2022.09.28-19.14.54:301][933]LogViewport: Scene viewport resized to 1737x667, mode Windowed.
+[2022.09.28-19.14.54:336][935]LogViewport: Scene viewport resized to 1718x667, mode Windowed.
+[2022.09.28-19.14.54:373][937]LogViewport: Scene viewport resized to 1696x667, mode Windowed.
+[2022.09.28-19.14.54:407][939]LogViewport: Scene viewport resized to 1682x667, mode Windowed.
+[2022.09.28-19.14.54:442][941]LogViewport: Scene viewport resized to 1671x667, mode Windowed.
+[2022.09.28-19.14.54:476][943]LogViewport: Scene viewport resized to 1670x667, mode Windowed.
+[2022.09.28-19.14.54:678][955]LogViewport: Scene viewport resized to 1666x667, mode Windowed.
+[2022.09.28-19.14.54:860][966]LogViewport: Scene viewport resized to 1679x667, mode Windowed.
+[2022.09.28-19.14.54:894][968]LogViewport: Scene viewport resized to 1721x667, mode Windowed.
+[2022.09.28-19.14.54:930][970]LogViewport: Scene viewport resized to 1768x667, mode Windowed.
+[2022.09.28-19.14.54:950][971]LogViewport: Scene viewport resized to 1780x667, mode Windowed.
+[2022.09.28-19.14.54:989][973]LogViewport: Scene viewport resized to 1809x667, mode Windowed.
+[2022.09.28-19.14.55:024][975]LogViewport: Scene viewport resized to 1836x667, mode Windowed.
+[2022.09.28-19.14.55:060][977]LogViewport: Scene viewport resized to 1852x667, mode Windowed.
+[2022.09.28-19.14.55:128][981]LogViewport: Scene viewport resized to 1857x667, mode Windowed.
+[2022.09.28-19.14.55:247][988]LogViewport: Scene viewport resized to 1873x667, mode Windowed.
+[2022.09.28-19.14.55:264][989]LogViewport: Scene viewport resized to 1880x667, mode Windowed.
+[2022.09.28-19.14.55:308][991]LogViewport: Scene viewport resized to 1890x667, mode Windowed.
+[2022.09.28-19.14.59:306][226]Cmd: DELETE
+[2022.09.28-19.14.59:306][226]Cmd: ACTOR DELETE
+[2022.09.28-19.14.59:308][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.09.28-19.14.59:316][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.28-19.14.59:318][226]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.09.28-19.15.02:597][423]LogViewport: Scene viewport resized to 1885x667, mode Windowed.
+[2022.09.28-19.15.02:632][425]LogViewport: Scene viewport resized to 1876x667, mode Windowed.
+[2022.09.28-19.15.02:667][427]LogViewport: Scene viewport resized to 1863x667, mode Windowed.
+[2022.09.28-19.15.02:701][429]LogViewport: Scene viewport resized to 1856x667, mode Windowed.
+[2022.09.28-19.15.02:735][431]LogViewport: Scene viewport resized to 1853x667, mode Windowed.
+[2022.09.28-19.15.02:770][433]LogViewport: Scene viewport resized to 1846x667, mode Windowed.
+[2022.09.28-19.15.02:803][435]LogViewport: Scene viewport resized to 1843x667, mode Windowed.
+[2022.09.28-19.15.02:837][437]LogViewport: Scene viewport resized to 1829x667, mode Windowed.
+[2022.09.28-19.15.02:872][439]LogViewport: Scene viewport resized to 1813x667, mode Windowed.
+[2022.09.28-19.15.02:906][441]LogViewport: Scene viewport resized to 1802x667, mode Windowed.
+[2022.09.28-19.15.02:941][443]LogViewport: Scene viewport resized to 1796x667, mode Windowed.
+[2022.09.28-19.15.33:055][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Test" FILE="../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset" SILENT=true
+[2022.09.28-19.15.33:058][999]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Test
+[2022.09.28-19.15.33:059][999]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/Test3806FF7F4756D0DBB3E35D80E2B37A0F.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/Test.uasset'
+[2022.09.28-19.15.33:072][999]AssetCheck: New page: Asset Save: Test
+[2022.09.28-19.15.33:072][999]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/Test.Test
+[2022.09.28-19.15.49:860][463]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.28-19.15.49:870][463]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.28-19.15.49:875][463]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.28-19.15.49:883][464]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.28-19.15.53:154][652]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.09.28-19.15.53:273][652]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.28-19.15.59:977][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/NewBlueprint" FILE="../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset" SILENT=true
+[2022.09.28-19.15.59:979][ 26]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/NewBlueprint
+[2022.09.28-19.15.59:980][ 26]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/NewBlueprint0F63E6B142031E005231D583C9A42CF1.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset'
+[2022.09.28-19.16.00:305][ 26]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.09.28-19.16.00:305][ 26]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/NewBlueprint.NewBlueprint
