@@ -1164,3 +1164,131 @@ Recommended: 516.25
 [2022.09.28-19.15.59:980][ 26]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/NewBlueprint0F63E6B142031E005231D583C9A42CF1.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset'
 [2022.09.28-19.16.00:305][ 26]AssetCheck: New page: Asset Save: NewBlueprint
 [2022.09.28-19.16.00:305][ 26]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/NewBlueprint.NewBlueprint
+[2022.09.28-19.16.26:309][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/NewBlueprint" FILE="../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset" SILENT=true
+[2022.09.28-19.16.26:312][517]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/NewBlueprint
+[2022.09.28-19.16.26:313][517]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/NewBlueprintEAA2615A44C23BB4B4F0B39821A6BBEE.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset'
+[2022.09.28-19.16.26:328][517]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.09.28-19.16.26:328][517]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Maps/NewBlueprint.NewBlueprint
+[2022.09.28-19.16.29:351][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.28-19.16.29:367][693]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/Whiteboxing_Auto1
+[2022.09.28-19.16.29:367][693]LogSavePackage: Moving '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/Whiteboxing_Auto10086A3E04276DB4AD112FDAD392EE206.tmp' to '../../../../../../Users/maken/OneDrive/Documents/GitHub/Azul/Whiteboxing/Saved/Autosaves/Game/ThirdPerson/Maps/Whiteboxing_Auto1.umap'
+[2022.09.28-19.16.29:369][693]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/Whiteboxing' took 0.024
+[2022.09.28-19.16.29:369][693]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2022.09.28-19.16.43:054][490]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.28-19.16.43:054][490]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.28-19.16.43:855][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.28-19.16.45:038][536]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.28-19.16.45:173][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.28-19.16.45:179][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.28-19.16.45:184][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.28-19.16.45:871][536]SourceControl: Error: Updated 1 path from the index
+[2022.09.28-19.16.46:029][536]SourceControl: rm 'Whiteboxing/Content/ThirdPerson/Maps/NewBlueprint.uasset'
+[2022.09.28-19.16.46:986][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.28-19.16.46:986][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.28-19.16.47:445][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.28-19.16.48:356][599]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.28-19.16.48:488][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.28-19.16.48:493][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.28-19.16.48:498][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.28-19.16.49:172][599]SourceControl: Error: Updated 0 paths from the index
+[2022.09.28-19.16.49:327][599]SourceControl: rm 'Whiteboxing/Content/ThirdPerson/Maps/Test.uasset'
+[2022.09.28-19.16.53:359][836]LogViewport: Scene viewport resized to 1796x648, mode Windowed.
+[2022.09.28-19.16.53:393][838]LogViewport: Scene viewport resized to 1796x635, mode Windowed.
+[2022.09.28-19.16.53:428][840]LogViewport: Scene viewport resized to 1796x631, mode Windowed.
+[2022.09.28-19.16.53:478][843]LogViewport: Scene viewport resized to 1796x625, mode Windowed.
+[2022.09.28-19.16.53:512][845]LogViewport: Scene viewport resized to 1796x616, mode Windowed.
+[2022.09.28-19.16.53:547][847]LogViewport: Scene viewport resized to 1796x609, mode Windowed.
+[2022.09.28-19.16.53:581][849]LogViewport: Scene viewport resized to 1796x603, mode Windowed.
+[2022.09.28-19.16.53:615][851]LogViewport: Scene viewport resized to 1796x593, mode Windowed.
+[2022.09.28-19.16.53:833][864]LogViewport: Scene viewport resized to 1796x608, mode Windowed.
+[2022.09.28-19.16.53:853][865]LogViewport: Scene viewport resized to 1796x622, mode Windowed.
+[2022.09.28-19.16.53:902][867]LogViewport: Scene viewport resized to 1796x649, mode Windowed.
+[2022.09.28-19.16.53:938][869]LogViewport: Scene viewport resized to 1796x656, mode Windowed.
+[2022.09.28-19.16.53:971][871]LogViewport: Scene viewport resized to 1796x660, mode Windowed.
+[2022.09.28-19.16.54:021][874]LogViewport: Scene viewport resized to 1796x664, mode Windowed.
+[2022.09.28-19.16.54:057][876]LogViewport: Scene viewport resized to 1796x673, mode Windowed.
+[2022.09.28-19.16.54:325][892]LogViewport: Scene viewport resized to 1796x674, mode Windowed.
+[2022.09.28-19.16.54:508][903]LogViewport: Scene viewport resized to 1796x667, mode Windowed.
+[2022.09.28-19.16.54:909][927]LogViewport: Scene viewport resized to 1796x663, mode Windowed.
+[2022.09.28-19.16.54:971][930]LogViewport: Scene viewport resized to 1796x659, mode Windowed.
+[2022.09.28-19.16.55:331][951]LogViewport: Scene viewport resized to 1796x664, mode Windowed.
+[2022.09.28-19.17.01:493][319]LogEditorViewport: Clicking Background
+[2022.09.28-19.17.50:558][226]LogViewport: Scene viewport resized to 1796x673, mode Windowed.
+[2022.09.28-19.17.50:592][228]LogViewport: Scene viewport resized to 1796x677, mode Windowed.
+[2022.09.28-19.17.50:627][230]LogViewport: Scene viewport resized to 1796x682, mode Windowed.
+[2022.09.28-19.17.50:660][232]LogViewport: Scene viewport resized to 1796x685, mode Windowed.
+[2022.09.28-19.17.50:694][234]LogViewport: Scene viewport resized to 1796x687, mode Windowed.
+[2022.09.28-19.17.50:811][241]LogViewport: Scene viewport resized to 1796x694, mode Windowed.
+[2022.09.28-19.17.50:847][243]LogViewport: Scene viewport resized to 1796x697, mode Windowed.
+[2022.09.28-19.17.51:050][255]LogViewport: Scene viewport resized to 1796x692, mode Windowed.
+[2022.09.28-19.17.51:085][257]LogViewport: Scene viewport resized to 1796x686, mode Windowed.
+[2022.09.28-19.17.51:221][265]LogViewport: Scene viewport resized to 1796x673, mode Windowed.
+[2022.09.28-19.17.51:254][267]LogViewport: Scene viewport resized to 1796x668, mode Windowed.
+[2022.09.28-19.17.57:389][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-19.17.57:393][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-19.17.57:397][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-19.17.57:401][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.28-19.17.57:453][632]LogViewport: Scene viewport resized to 1796x833, mode Windowed.
+[2022.09.28-19.18.39:227][121]LogViewport: Scene viewport resized to 1780x833, mode Windowed.
+[2022.09.28-19.18.39:264][123]LogViewport: Scene viewport resized to 1768x833, mode Windowed.
+[2022.09.28-19.18.39:300][125]LogViewport: Scene viewport resized to 1760x833, mode Windowed.
+[2022.09.28-19.18.39:334][127]LogViewport: Scene viewport resized to 1754x833, mode Windowed.
+[2022.09.28-19.18.39:368][129]LogViewport: Scene viewport resized to 1741x833, mode Windowed.
+[2022.09.28-19.18.39:404][131]LogViewport: Scene viewport resized to 1728x833, mode Windowed.
+[2022.09.28-19.18.39:438][133]LogViewport: Scene viewport resized to 1720x833, mode Windowed.
+[2022.09.28-19.18.39:471][135]LogViewport: Scene viewport resized to 1714x833, mode Windowed.
+[2022.09.28-19.18.39:506][137]LogViewport: Scene viewport resized to 1708x833, mode Windowed.
+[2022.09.28-19.18.39:541][139]LogViewport: Scene viewport resized to 1700x833, mode Windowed.
+[2022.09.28-19.18.39:576][141]LogViewport: Scene viewport resized to 1689x833, mode Windowed.
+[2022.09.28-19.18.39:610][143]LogViewport: Scene viewport resized to 1688x833, mode Windowed.
+[2022.09.28-19.18.39:694][148]LogViewport: Scene viewport resized to 1683x833, mode Windowed.
+[2022.09.28-19.19.00:307][381]LogEditorViewport: Clicking Background
+[2022.09.28-19.19.13:919][182]LogEditorViewport: Clicking Background
+[2022.09.28-19.21.01:023][535]LogViewport: Scene viewport resized to 1683x842, mode Windowed.
+[2022.09.28-19.21.01:039][536]LogViewport: Scene viewport resized to 1683x846, mode Windowed.
+[2022.09.28-19.21.01:085][538]LogViewport: Scene viewport resized to 1683x859, mode Windowed.
+[2022.09.28-19.21.01:121][540]LogViewport: Scene viewport resized to 1683x868, mode Windowed.
+[2022.09.28-19.21.01:156][542]LogViewport: Scene viewport resized to 1683x874, mode Windowed.
+[2022.09.28-19.21.01:191][544]LogViewport: Scene viewport resized to 1683x879, mode Windowed.
+[2022.09.28-19.21.01:226][546]LogViewport: Scene viewport resized to 1683x889, mode Windowed.
+[2022.09.28-19.21.01:261][548]LogViewport: Scene viewport resized to 1683x899, mode Windowed.
+[2022.09.28-19.21.01:295][550]LogViewport: Scene viewport resized to 1683x908, mode Windowed.
+[2022.09.28-19.21.01:329][552]LogViewport: Scene viewport resized to 1683x918, mode Windowed.
+[2022.09.28-19.21.01:364][554]LogViewport: Scene viewport resized to 1683x929, mode Windowed.
+[2022.09.28-19.21.01:398][556]LogViewport: Scene viewport resized to 1683x942, mode Windowed.
+[2022.09.28-19.21.01:416][557]LogViewport: Scene viewport resized to 1683x944, mode Windowed.
+[2022.09.28-19.21.01:455][559]LogViewport: Scene viewport resized to 1683x952, mode Windowed.
+[2022.09.28-19.21.01:490][561]LogViewport: Scene viewport resized to 1683x962, mode Windowed.
+[2022.09.28-19.21.01:526][563]LogViewport: Scene viewport resized to 1683x965, mode Windowed.
+[2022.09.28-19.21.01:660][571]LogViewport: Scene viewport resized to 1683x951, mode Windowed.
+[2022.09.28-19.21.01:694][573]LogViewport: Scene viewport resized to 1683x924, mode Windowed.
+[2022.09.28-19.21.01:731][575]LogViewport: Scene viewport resized to 1683x883, mode Windowed.
+[2022.09.28-19.21.01:766][577]LogViewport: Scene viewport resized to 1683x869, mode Windowed.
+[2022.09.28-19.21.01:851][582]LogViewport: Scene viewport resized to 1683x865, mode Windowed.
+[2022.09.28-19.21.01:884][584]LogViewport: Scene viewport resized to 1683x859, mode Windowed.
+[2022.09.28-19.21.01:918][586]LogViewport: Scene viewport resized to 1683x857, mode Windowed.
+[2022.09.28-19.21.02:036][593]LogViewport: Scene viewport resized to 1683x843, mode Windowed.
+[2022.09.28-19.21.02:069][595]LogViewport: Scene viewport resized to 1683x832, mode Windowed.
+[2022.09.28-19.21.02:105][597]LogViewport: Scene viewport resized to 1683x817, mode Windowed.
+[2022.09.28-19.21.02:140][599]LogViewport: Scene viewport resized to 1683x791, mode Windowed.
+[2022.09.28-19.21.02:175][601]LogViewport: Scene viewport resized to 1683x777, mode Windowed.
+[2022.09.28-19.21.02:210][603]LogViewport: Scene viewport resized to 1683x765, mode Windowed.
+[2022.09.28-19.21.02:243][605]LogViewport: Scene viewport resized to 1683x759, mode Windowed.
+[2022.09.28-19.21.02:512][621]LogViewport: Scene viewport resized to 1683x774, mode Windowed.
+[2022.09.28-19.21.02:550][623]LogViewport: Scene viewport resized to 1683x790, mode Windowed.
+[2022.09.28-19.21.02:588][625]LogViewport: Scene viewport resized to 1683x806, mode Windowed.
+[2022.09.28-19.21.02:622][627]LogViewport: Scene viewport resized to 1683x814, mode Windowed.
+[2022.09.28-19.21.02:656][629]LogViewport: Scene viewport resized to 1683x820, mode Windowed.
+[2022.09.28-19.21.02:691][631]LogViewport: Scene viewport resized to 1683x830, mode Windowed.
+[2022.09.28-19.21.02:725][633]LogViewport: Scene viewport resized to 1683x838, mode Windowed.
+[2022.09.28-19.21.02:760][635]LogViewport: Scene viewport resized to 1683x839, mode Windowed.
+[2022.09.28-19.21.03:830][699]LogViewport: Scene viewport resized to 1683x831, mode Windowed.
+[2022.09.28-19.21.03:863][701]LogViewport: Scene viewport resized to 1683x818, mode Windowed.
+[2022.09.28-19.21.03:897][703]LogViewport: Scene viewport resized to 1683x814, mode Windowed.
+[2022.09.28-19.21.08:887][988]LogViewport: Scene viewport resized to 1683x832, mode Windowed.
+[2022.09.28-19.21.08:924][990]LogViewport: Scene viewport resized to 1683x845, mode Windowed.
+[2022.09.28-19.21.08:959][992]LogViewport: Scene viewport resized to 1683x846, mode Windowed.
+[2022.09.28-19.21.09:309][ 13]LogViewport: Scene viewport resized to 1683x832, mode Windowed.
+[2022.09.28-19.21.09:356][ 15]LogViewport: Scene viewport resized to 1683x825, mode Windowed.
+[2022.09.28-19.21.09:693][ 35]LogViewport: Scene viewport resized to 1683x820, mode Windowed.
+[2022.09.28-19.21.09:735][ 37]LogViewport: Scene viewport resized to 1683x819, mode Windowed.
