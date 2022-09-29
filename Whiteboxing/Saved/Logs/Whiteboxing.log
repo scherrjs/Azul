@@ -4629,3 +4629,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.29-05.52.18:040][178]AssetCheck: New page: Asset Save: Whiteboxing
 [2022.09.29-05.52.18:040][178]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing
 [2022.09.29-05.53.13:808][271]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.29-06.00.13:787][629]LogSlate: Window 'Source Control Login' being destroyed
