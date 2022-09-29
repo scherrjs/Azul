@@ -4628,3 +4628,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.29-05.52.18:016][178]LogSavePackage: Moving '../../../../../../Users/benat/Desktop/My Projects and Works/Game Design/Full Projects/Azul/Whiteboxing/Saved/WhiteboxingD1D2446D46A4C54A2A172ABEBD1DE5AF.tmp' to '../../../../../../Users/benat/Desktop/My Projects and Works/Game Design/Full Projects/Azul/Whiteboxing/Content/ThirdPerson/Maps/Whiteboxing.umap'
 [2022.09.29-05.52.18:040][178]AssetCheck: New page: Asset Save: Whiteboxing
 [2022.09.29-05.52.18:040][178]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/Whiteboxing.Whiteboxing
+[2022.09.29-05.53.13:808][271]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
