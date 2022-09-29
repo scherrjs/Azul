@@ -4001,3 +4001,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.29-05.45.01:396][283]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
 [2022.09.29-05.45.01:396][283]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2022.09.29-05.45.01:586][283]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.09.29-05.45.03:414][289]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0. Error code 37.
+[2022.09.29-05.45.03:415][289]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.09.29-05.45.03:607][289]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
